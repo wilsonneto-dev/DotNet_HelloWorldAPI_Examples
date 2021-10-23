@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zXRYscz44wFjbhzJyQyN8eu+usFTumrb4B2m64nVgVlvjToOrLvqdLWzxiqjNVLxf20HMBsjqcL/eLY6XPk8EQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wn_br\\Desktop\\HelloWorldAPI\\HelloWorldAPI\\HelloWorldAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wn_br\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
